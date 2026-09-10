@@ -1,4 +1,4 @@
-# 🧠 Multi-Document RAG System
+# Multi-Document RAG System
 
 > A research paper Q&A assistant powered by FAISS vector search + Google Gemini 2.5 Flash
 
@@ -10,7 +10,7 @@
 
 ---
 
-## ✨ What it does
+## What it does
 
 Upload any research paper PDF and instantly ask questions about it. The app chunks the paper, encodes it into vector embeddings, stores them in FAISS, and retrieves the most relevant sections to answer your question using Gemini — all without hallucinating beyond the paper's content.
 
