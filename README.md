@@ -16,7 +16,7 @@ Upload any research paper PDF and instantly ask questions about it. The app chun
 
 ---
 
-## 🖥️ Screenshots
+## Screenshots
 
 ### App ready — upload any PDF
 <img width="1526" height="704" alt="image" src="https://github.com/user-attachments/assets/a5342a85-207f-4781-be13-af7ec578e3a7" />
