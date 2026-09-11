@@ -12,7 +12,7 @@
 
 ## What it does
 
-Upload any research paper PDF and instantly ask questions about it. The app chunks the paper, encodes it into vector embeddings, stores them in FAISS, and retrieves the most relevant sections to answer your question using Gemini — all without hallucinating beyond the paper's content.
+Upload any research paper PDF and instantly ask questions about it. The app chunks the paper, encodes it into vector embeddings, stores them in FAISS, and retrieves the most relevant sections to answer your question using Gemini — all without hallucinating beyond the paper's content.The RAG framework will help to solve the tasks.
 
 ---
 
@@ -36,7 +36,7 @@ Upload any research paper PDF and instantly ask questions about it. The app chun
 
 ---
 
-## 🚀 How it works
+## How it works
 
 ```
 📄 Upload PDF  →  🔪 Chunk (300 tokens)  →  🧮 Embed (384-dim)
