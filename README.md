@@ -39,9 +39,9 @@ Upload any research paper PDF and instantly ask questions about it. The app chun
 ## How it works
 
 ```
-📄 Upload PDF  →  🔪 Chunk (300 tokens)  →  🧮 Embed (384-dim)
+Upload PDF  →   Chunk (300 tokens)  →  Embed (384-dim)
       ↓
-🗄️ FAISS Index  ←→  🔍 Query  →  📚 Top-5 Chunks  →  ✨ Gemini Answer
+FAISS Index  ←→  Query  →  Top-5 Chunks  →  Gemini Answer
 ```
 
 ---
