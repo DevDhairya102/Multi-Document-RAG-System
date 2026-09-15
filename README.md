@@ -10,13 +10,13 @@
 
 ---
 
-## What it does
+### What it does
 
 Upload any research paper PDF and instantly ask questions about it. The app chunks the paper, encodes it into vector embeddings, stores them in FAISS, and retrieves the most relevant sections to answer your question using Gemini — all without hallucinating beyond the paper's content.The RAG framework will help to solve the tasks.
 
 ---
 
-## Screenshots
+### Screenshots
 
 ### App ready — upload any PDF
 <img width="1526" height="704" alt="image" src="https://github.com/user-attachments/assets/a5342a85-207f-4781-be13-af7ec578e3a7" />
